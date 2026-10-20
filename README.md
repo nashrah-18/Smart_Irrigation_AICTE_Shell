@@ -82,6 +82,8 @@ By implementing this system, farmers can:
 
 * Programming Language: Python
 * Platform: Streamlit
+* Dataset: Given during internship (NASA dataset)
+* Machine learning algorithm: Random Forest
 
 ---
 
