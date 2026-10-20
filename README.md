@@ -80,10 +80,8 @@ By implementing this system, farmers can:
 
 ## 🛠️ Tech Stack
 
-* Machine Learning: *(Add model/algorithm used)*
-* Sensors: Soil moisture, temperature, humidity *(if applicable)*
-* Programming Language: *(Python, etc.)*
-* Platform: *(Web / IoT / Simulation)*
+* Programming Language: Python
+* Platform: Streamlit
 
 ---
 
